@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "AdditionalResources.html",
+    "href": "AdditionalResources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#scientific-writing",
+    "href": "AdditionalResources.html#scientific-writing",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#figures-editing",
+    "href": "AdditionalResources.html#figures-editing",
+    "title": "Additional resources",
+    "section": "   Figures editing",
+    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
+  },
+  {
+    "objectID": "Schedule.html#pôle-méca-internal-seminars-schedule",
+    "href": "Schedule.html#pôle-méca-internal-seminars-schedule",
+    "title": "Pôle Méca seminar series",
+    "section": "   Pôle Méca internal seminars schedule",
+    "text": "Pôle Méca internal seminars schedule\n\n\n\nTime: Friday, 11:00 a.m. – 12:00 a.m.\nVenue: Amphi 104 (Pôle Mécanique)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pôle Méca seminar series",
+    "section": "",
+    "text": "This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of weekly seminars co-organised by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs and permanent faculty memebers) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
+  },
+  {
+    "objectID": "index.html#welcome-to-the-internal-pôle-méca-seminar-series-webapge",
+    "href": "index.html#welcome-to-the-internal-pôle-méca-seminar-series-webapge",
+    "title": "Pôle Méca seminar series",
+    "section": "",
+    "text": "This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of weekly seminars co-organised by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs and permanent faculty memebers) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
+  },
+  {
+    "objectID": "Registration.html#register-as-a-speaker",
+    "href": "Registration.html#register-as-a-speaker",
+    "title": "Pôle Méca seminar series",
+    "section": "   Register as a speaker",
+    "text": "Register as a speaker\n\nPlease indicate your\n\nName\nLab\nThe title of yout presentation\nThe format\n\nShort (around 20 minutes)\nLong(around 40-45 minutes)\n\nAny other remarks (schedule constraints, etc.)"
+  },
+  {
     "objectID": "PastSeminarsArchive.html",
     "href": "PastSeminarsArchive.html",
     "title": "Pôle Méca seminar series",
@@ -12,33 +61,5 @@
     "title": "Pôle Méca seminar series",
     "section": "",
     "text": "Title: Role of melting and solidification in the spreading of a water drop.\nAuthor: Wladimir Sarlin (LadHyX)\n\n\n\n Slides"
-  },
-  {
-    "objectID": "Registration.html#register-as-a-speaker",
-    "href": "Registration.html#register-as-a-speaker",
-    "title": "Pôle Méca seminar series",
-    "section": "   Register as a speaker",
-    "text": "Register as a speaker\n\nPlease indicate your\n\nName\nLab\nThe title of yout presentation\nThe format\n\nShort (around 20 minutes)\nLong(around 40-45 minutes)\n\nAny other remarks (schedule constraints, etc.)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pôle Méca seminar series",
-    "section": "",
-    "text": "This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of weekly seminars co-organised by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs and permanent faculty memebers) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar."
-  },
-  {
-    "objectID": "index.html#welcome-to-the-internal-pôle-méca-seminar-series-webapge",
-    "href": "index.html#welcome-to-the-internal-pôle-méca-seminar-series-webapge",
-    "title": "Pôle Méca seminar series",
-    "section": "",
-    "text": "This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of weekly seminars co-organised by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs and permanent faculty memebers) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar."
-  },
-  {
-    "objectID": "Schedule.html#pôle-méca-internal-seminars-schedule",
-    "href": "Schedule.html#pôle-méca-internal-seminars-schedule",
-    "title": "Pôle Méca seminar series",
-    "section": "   Pôle Méca internal seminars schedule",
-    "text": "Pôle Méca internal seminars schedule\n\n\n\nTime: Friday, 11:00 a.m. – 12:00 a.m.\nVenue: Amphi 104 (Pôle Mécanique)"
   }
 ]
