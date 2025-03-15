@@ -1,0 +1,92 @@
+/*-- scss:defaults --*/
+// Base document colors
+// $body-bg: #f3f3f3;
+// $body-color: #212121ff;
+// $link-color: rgb(1, 66, 106);
+$link-color: #bf8f43ff;
+$navbar-bg: rgb(1, 66, 106);
+// $h2-font-size: 20px;
+
+/*-- scss:rules --*/
+
+
+h1 {
+  color: #27466bff;
+}
+
+h2 {
+  color: rgb(43, 80, 122);
+}
+
+h3 {
+  color: rgb(43, 80, 122);
+}
+
+// h2 {
+//   color: rgb(28, 74, 104);
+// }
+
+// h1 {
+//   color: rgb(1, 66, 106);
+// }
+
+
+  .navbar {
+    // background-image: url("Resources/Images/EcolePolytechnique.jpg");
+    // background-color: #00436d;
+    background-size: cover; /* Adjust as needed */
+    background-position: center;
+    // height: 120px; /* Adjust this value as needed */
+    display: flex;
+    align-items: center; /* Center-aligns the content vertically */
+  }
+  
+
+
+
+// SCSS for rounded box buttons
+.button {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  a.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    border-radius: 10px; // Makes the button rounded
+    background-color: #00436d; // Primary color
+    color: white;
+    text-decoration: none;
+    // font-size: 1rem;
+    // font-weight: 500;
+    transition: background-color 0.3s, box-shadow 0.3s;
+
+    &:hover {
+      background-color: #00436d; // Darker shade on hover
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); // Adds a shadow
+      font-size: 0.97rem;
+    }
+
+    &:active {
+      background-color: #00436d; // Even darker for active state
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2); // Inset shadow
+      font-size: 0.97rem;
+    }
+
+    span.button-text {
+      margin-left: 0.5rem; // Spacing between icon and text
+    }
+  }
+}
+
+ 
+.talk-card {
+  border: 1px solid rgba(0, 67, 109, 0.9);
+  padding: 0 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 67, 109, 0.1);
+  background-color: rgba(0, 67, 109, 0.03);
+}
