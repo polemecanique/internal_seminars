@@ -1,1 +1,1 @@
-Sitemap: https://polemecanique.github.io/internal_seminars/sitemap.xml
+Sitemap: https://polemecanique.github.io/sitemap.xml
