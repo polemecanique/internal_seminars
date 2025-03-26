@@ -1,0 +1,229 @@
+/*-- scss:defaults --*/
+// Color system
+$white:    #F5F6FA !default;
+$blue: #01426aff !default;
+$teal: #00677F !default;
+$blue-light: #e6ecefff !default;
+$gray-warm: #8E8581 !default;
+$gray-warm-light: #ECE8DC !default;
+$gray-cool: #53565A !default;
+$gray-cool-light: #888B8D !default;
+$green: #43B02A !default;
+$green-dark: #6B7E51 !default;
+$orange-X: #FE5000 !default;
+$red-light: #CE0037 !default;
+$red: #A92021 !default;
+// $gray-500: #A6A6A6 !default;
+// $gray-600: #909090 !default;
+// $gray-700: #424242 !default;
+// $gray-800: #373737 !default;
+// $gray-900: #2C2C2C !default;
+// $black:    #000 !default;
+// $blue:    #4455FF !default;
+// $indigo:  #6610f2 !default; 
+// $purple:  #CC99CC !default;
+// $pink:    #CC6699 !default;
+// $red:     #FF5555 !default;
+// $orange:  #FF9933 !default;
+// $yellow:  #FFFF99 !default;
+// $green:   #33CC99 !default;
+// $teal:    #20c997 !default; 
+// $cyan:    #99CCFF !default;
+// $light-orange: #FFCC66 !default;
+// $inrae-charte: #00a3a6 !default;
+// $inrae-sombre: #275662 !default;
+
+$body-color: $blue;
+
+
+// colors
+$link-color: $teal !default;
+
+// fonts
+$presentation-font-size-root: 24px;
+
+// $font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+//   FreeSerif, serif !default;
+
+// headings
+// $presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+//   FreeSerif, serif !default;
+
+
+/*-- scss:rules --*/
+
+ul li { list-style-type: square}
+
+.reveal .progress {
+  background: $blue-light;
+  color: $blue;
+  height: 0.5%;
+}
+
+section.slide h1 {
+  // font-size: 1em;
+  color: $blue !important;
+  vertical-align: top;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif ;
+  // text-transform: uppercase;
+  font-weight: normal;
+
+}
+
+section.slide h2 {
+  color: $blue !important;
+  background-color: $blue-light !important;
+  width: 200vw;
+  position: relative;
+  left: -20vw;
+  padding-left: 20vw;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  vertical-align: top;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif ;
+  // text-transform: uppercase;
+  font-weight: normal;
+}
+
+
+#title-slide {
+  .title {
+    font-size: 2em;
+    color: $blue-light;
+  }
+  .subtitle {
+    // font-size: 0.2em;
+    color: $blue-light;
+  }
+
+
+  .quarto-title-author {
+    // font-size: 0.7em;
+    padding-top: 40px;
+    color: $blue-light;
+  }
+
+  .date {
+    // font-size: 0.6em;
+    color: $blue-light !important;
+  }
+}
+
+// section.slide h3 {
+//   color: $blue ;
+//     text-align: left;
+//     position: inherit;
+//     // right: 0;
+//     top: 0;
+//     padding-top: 100px;
+
+// }
+
+section.slide h3 {
+  color: $blue ;
+//     text-align: left;
+//     position: inherit;
+//     // right: 0;
+//     top: 0;
+//     padding-top: 100px;
+font-family: Lato, sans-serif ;
+// font-size: smaller;
+font-weight: normal;
+
+}
+
+.reveal .slide-logo {
+  height: 15% !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+// Slide numbers to the bottom-left
+.slide-number, .reveal.has-logo .slide-number {
+  bottom: 14px !important;
+  left: 50% !important;
+  top: unset !important;
+  color: $blue !important;
+}
+
+
+// Custom boxes
+
+.mybox {
+  margin-top: 1em;
+  margin-bottom: 1em;  
+  border-radius: 0rem;
+  border-left: solid #acacac 0px;
+  border-right: solid 0px silver;
+  border-top: solid 0px silver;
+  border-bottom: solid 0px silver;
+  // border-left-color: $blue !important;
+  box-shadow: 4px 0px 5px rgba(1, 66, 106, 0.2);
+
+}
+
+// .mybox-icon {
+//   height: 0.9rem;
+//   width: 0.9rem;
+//   display: inline-block;
+//   content: "";
+//   background-repeat: no-repeat;
+//   background-size: 0.9rem 0.9rem;
+//   margin-top: .5rem;
+//   padding-right: 1.25rem;
+//   background-image: url('screwdriver-wrench-solid.png');
+// }
+
+.mybox-header {
+  //margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-bottom: none;
+  padding-bottom: 0.5em;
+
+  font-weight: bold;
+  opacity: 85%;
+  // font-size: 0.9rem;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  display: flex;
+  background-color: $blue;
+  color: $blue-light !important;
+  height: 2em;
+  overflow: hidden;
+}
+
+.mybox-header-teal {
+  //margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-bottom: none;
+  padding-bottom: 0.5em;
+
+  font-weight: bold;
+  opacity: 85%;
+  // font-size: 0.9rem;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  display: flex;
+  background-color: $teal;
+  color: $blue-light !important;
+  height: 2em;
+  overflow: hidden;
+}
+
+.mybox-header p {
+  padding-bottom: 0.5em;
+}
+
+.mybox-body {
+  // font-size: 0.9rem;
+  font-weight: 400;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.mybox-body > :last-child {
+  padding-bottom: 0.5rem;
+  margin-bottom: 0;
+}
