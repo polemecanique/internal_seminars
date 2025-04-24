@@ -24,3 +24,8 @@ a:link {
     box-shadow: 0 5px 10px rgba(0, 67, 109, 0.1);
     background-color: rgba(0, 67, 109, 0.03);
   }
+
+
+  .navbar-logo {
+    max-height: 50px;
+  }
