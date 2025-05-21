@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "Schedule.html#pôle-méca-internal-seminars-schedule",
-    "href": "Schedule.html#pôle-méca-internal-seminars-schedule",
+    "objectID": "PastSeminarsArchive.html",
+    "href": "PastSeminarsArchive.html",
     "title": "Pôle Méca seminar series",
-    "section": "   Pôle Méca internal seminars schedule",
-    "text": "Pôle Méca internal seminars schedule\n\nYou can subscribe to the internal seminars schedule here or directly access the agenda bellow\n\n\n\n\nTime: Friday, 11:00 a.m. – 12:00 a.m.\nVenue: Amphi 104 (Pôle Mécanique)"
+    "section": "",
+    "text": "Title: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
+  },
+  {
+    "objectID": "PastSeminarsArchive.html#archive-of-past-talks",
+    "href": "PastSeminarsArchive.html#archive-of-past-talks",
+    "title": "Pôle Méca seminar series",
+    "section": "",
+    "text": "Title: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pôle Méca seminar series",
+    "section": "",
+    "text": "This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of weekly seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
+  },
+  {
+    "objectID": "index.html#welcome-to-the-internal-pôle-méca-internal-seminar-series-webpage",
+    "href": "index.html#welcome-to-the-internal-pôle-méca-internal-seminar-series-webpage",
+    "title": "Pôle Méca seminar series",
+    "section": "",
+    "text": "This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of weekly seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
   },
   {
     "objectID": "Registration.html#register-as-a-speaker",
@@ -35,31 +56,10 @@
     "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
-    "objectID": "PastSeminarsArchive.html",
-    "href": "PastSeminarsArchive.html",
+    "objectID": "Schedule.html#pôle-méca-internal-seminars-schedule",
+    "href": "Schedule.html#pôle-méca-internal-seminars-schedule",
     "title": "Pôle Méca seminar series",
-    "section": "",
-    "text": "Title: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
-  },
-  {
-    "objectID": "PastSeminarsArchive.html#archive-of-past-talks",
-    "href": "PastSeminarsArchive.html#archive-of-past-talks",
-    "title": "Pôle Méca seminar series",
-    "section": "",
-    "text": "Title: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pôle Méca seminar series",
-    "section": "",
-    "text": "This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of weekly seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
-  },
-  {
-    "objectID": "index.html#welcome-to-the-internal-pôle-méca-internal-seminar-series-webpage",
-    "href": "index.html#welcome-to-the-internal-pôle-méca-internal-seminar-series-webpage",
-    "title": "Pôle Méca seminar series",
-    "section": "",
-    "text": "This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of weekly seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
+    "section": "   Pôle Méca internal seminars schedule",
+    "text": "Pôle Méca internal seminars schedule\n\nYou can subscribe to the internal seminars schedule here or directly access the agenda bellow\n\n\n\n\nTime: Friday, 11:00 a.m. – 12:00 a.m.\nVenue: Amphi 104 (Pôle Mécanique)"
   }
 ]
