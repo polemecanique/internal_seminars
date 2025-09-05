@@ -15,7 +15,7 @@ format:
     src="https://icsviewer.ecam.fr/calendar.html?css=.CALENDAR-INDEX-0%20%7B%20background-color%3A%20%231c71d8%3B%20%7D&amp;tab=agenda&amp;tabs=agenda&amp;title=Internal%20Seminar%20P%C3%B4le%20M%C3%A9canique&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolemecanique%2Finternal_seminars%2Frefs%2Fheads%2Fmain%2FResources%2Finternal_seminars_pole_mecanique.ics"
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
     allowTransparency="true" scrolling="no" 
-    frameborder="0" height="600px" width="100%"></iframe>
+    frameborder="0" height="400px" width="100%"></iframe>
 
 The internal seminars usually take place at :
 
