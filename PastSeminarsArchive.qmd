@@ -9,6 +9,20 @@ format:
 
 
 ::::: {.talk-card}
+### 27th of June 2025
+
+**Title:** Fatigue scatter model and non linear cumulative damage
+ <br>
+**Author:** Théo Leclève (ENSTA)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](internal_seminars/Resources/Documents/Presentations/2025/20250627_Lecleve.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
+::::: {.talk-card}
 ### 13th of June 2025
 
 **Title:** Analysis of fatigue crack propagation with overload effects
