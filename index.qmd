@@ -23,5 +23,5 @@ Here, you will find:
 * [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
-![](Resources/Images/PoleMeca.png)
+![](Resources/Images/PoleMeca.jpg)
 
