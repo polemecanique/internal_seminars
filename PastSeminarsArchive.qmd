@@ -16,7 +16,7 @@ format:
 **Author:** Théo Leclève (ENSTA)
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](internal_seminars/Resources/Documents/Presentations/2025/20250627_Lecleve.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](Resources/Documents/Presentations/2025/20250627_Lecleve.pdf){.button target="_blank"}
 :::
 
 :::::
