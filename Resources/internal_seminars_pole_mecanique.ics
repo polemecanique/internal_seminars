@@ -31,7 +31,7 @@ DTSTART;TZID=Europe/Berlin:20250919T110000
 DTEND;TZID=Europe/Berlin:20250919T120000
 SUMMARY:Internal Seminar - André DE FIGUEIREDO STABILE
 DESCRIPTION:The parametrisation method for invariant manifolds: application to Hopf bifurcations in follower force problems\n
-LOCATION:Amphitheater of Pôle Mécanique
+LOCATION:ENSTA Library at Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250912T080354Z
