@@ -21,8 +21,8 @@ website:
     # logo: "Resources/Images/Logotype-X_ENSTA-Ecoles-Horizontal-Blanc.png"
     logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
     right:
-      - href: "https://polemecanique.github.io"
-        text: Pôle Mécanique
+      - href: index.qmd
+        text: Home
       - href: Schedule.qmd
         text: Schedule
       - href: Registration.qmd
@@ -31,6 +31,8 @@ website:
         text: Archive
       - href: AdditionalResources.qmd
         text: Miscellaneous
+      - href: "https://polemecanique.github.io"
+        text: Pôle Mécanique
 
   # announcement: 
   #   icon: info-circle
