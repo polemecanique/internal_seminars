@@ -39,6 +39,7 @@ UID:1757664161952-37663@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20251010T110000
 DTEND;TZID=Europe/Berlin:20251010T120000
 SUMMARY:Internal Seminar - Adrien VET (POEMS\, Safran)
+DESCRIPTION:Fatigue lifetime analysis of general 3D crack configurations using H-matrix accelerated boundary element method\n
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 END:VCALENDAR
