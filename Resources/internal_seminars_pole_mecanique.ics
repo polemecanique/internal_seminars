@@ -25,7 +25,7 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250912T080354Z
+DTSTAMP:20251015T062421Z
 UID:1756891954099-26132@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250919T110000
 DTEND;TZID=Europe/Berlin:20250919T120000
@@ -34,12 +34,84 @@ DESCRIPTION:The parametrisation method for invariant manifolds: application to H
 LOCATION:ENSTA Library at Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250912T080354Z
+DTSTAMP:20251015T062421Z
 UID:1757664161952-37663@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20251010T110000
 DTEND;TZID=Europe/Berlin:20251010T120000
 SUMMARY:Internal Seminar - Adrien VET (POEMS\, Safran)
 DESCRIPTION:Fatigue lifetime analysis of general 3D crack configurations using H-matrix accelerated boundary element method\n
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760508837459-67002@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251107T110000
+DTEND;TZID=Europe/Berlin:20251107T120000
+SUMMARY:Internal Seminar - João Victor Neves (IMSIA) & Mathieu Brodmann (LMS)
+DESCRIPTION:João Victor Neves : Low order model for unsteady state of a laminar separation bubble using experimental data\nMathieu Brodmann : Domain wall kinetics in single-crystal ferroelectrics\n
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509114207-77371@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251114T110000
+DTEND;TZID=Europe/Berlin:20251114T120000
+SUMMARY:Internal Seminar - Emile Balandier (LMI) & Charlie Bastien (IMSIA + SAFRAN)
+DESCRIPTION:Emile Balandier : TBA\nCharlie Bastien : TBA
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509023080-34769@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251121T110000
+DTEND;TZID=Europe/Berlin:20251121T120000
+SUMMARY:Internal Seminar - Barthélémy Thibaud (Université de Montpellier)
+DESCRIPTION:Barthélémy Thibaud : TBA
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509168513-97781@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251128T110000
+DTEND;TZID=Europe/Berlin:20251128T120000
+SUMMARY:Internal Seminar - Marc Vacher (LadHyX) & Esteban Valdecasa (LadHyX)
+DESCRIPTION:Marc Vacher : TBA\nEsteban Valdecasa : TBA
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509232586-77086@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260123T110000
+DTEND;TZID=Europe/Berlin:20260123T120000
+SUMMARY:Internal Seminar - Auregan Boyet\, Diego Gutierrez-Oribio & David Riley (IMSIA)
+DESCRIPTION:TBA
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509265984-39974@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260206T110000
+DTEND;TZID=Europe/Berlin:20260206T120000
+SUMMARY:Internal Seminar - Manas Upadhyay (LMS)
+DESCRIPTION:Rapid Laser–Metal Interactions at the Micron Scale: A Fluid–Solid Problem
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509306865-46284@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260619T110000
+DTEND;TZID=Europe/Berlin:20260619T120000
+SUMMARY:Internal Seminar (Paris Postdoc Network) - Anna Chrzanowska (Paris Brain Institute)
+DESCRIPTION:How learning shapes individualized brain circuits in fruit flies
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T062421Z
+UID:1760509351571-32742@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260626T110000
+DTEND;TZID=Europe/Berlin:20260626T120000
+SUMMARY:Internal Seminar (Paris Postdoc Network) - Khaldoun GHARZEDDINE (Institut Necker Enfants Malades (INEM))
+DESCRIPTION:Towards Immunotherapy Approaches Targeting CD47-SIRPa Axis in Relapsing T-ALL
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 END:VCALENDAR
