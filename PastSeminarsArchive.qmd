@@ -9,6 +9,19 @@ format:
 
 
 ::::: {.talk-card}
+### 10th of October 2025
+
+**Title:** Fatigue lifetime analysis of general 3D crack configurations using H-matrix accelerated boundary element method
+ <br>
+**Author:** Adrien VET (ENSTA, Safran)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](Resources/Documents/Presentations/2025/20251010_Vet.pdf){.button target="_blank"}
+:::
+
+:::::
+
+::::: {.talk-card}
 ### 19th of September 2025
 
 **Title:** The parametrisation method for invariant manifolds: application to Hopf bifurcations in follower force problems
