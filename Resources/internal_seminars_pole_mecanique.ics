@@ -49,7 +49,7 @@ DTSTART;TZID=Europe/Berlin:20251107T110000
 DTEND;TZID=Europe/Berlin:20251107T120000
 SUMMARY:Internal Seminar - João Victor Neves (IMSIA) & Mathieu Brodmann (LMS)
 DESCRIPTION:João Victor Neves : Low order model for unsteady state of a laminar separation bubble using experimental data\nMathieu Brodmann : domain wall kinetics in single-crystal ferroelectric barium titanate\n
-LOCATION:Amphitheater of Pôle Mécanique
+LOCATION:LadHyX library
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251015T062421Z
