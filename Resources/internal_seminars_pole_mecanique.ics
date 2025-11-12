@@ -57,7 +57,7 @@ UID:1760509114207-77371@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20251114T110000
 DTEND;TZID=Europe/Berlin:20251114T120000
 SUMMARY:Internal Seminar - Emile Balandier (LMI) & Charlie Bastien (IMSIA + SAFRAN)
-DESCRIPTION:Emile Balandier : TBA\nCharlie Bastien : TBA
+DESCRIPTION:Emile Balandier : Influence of static magnetic fields on bone remodeling.\nCharlie Bastien :  Toward a model-order reduction technique based on a nonlinear component mode synthesis for problems with both distributed and localized nonlinearities.
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
