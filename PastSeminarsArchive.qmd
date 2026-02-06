@@ -17,6 +17,7 @@ format:
 ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://floiseau.github.io/2025_12_MePhy_I-Gaia_Day){.button target="_blank"}
 :::
+:::::
 
 ::::: {.talk-card}
 ### 10th of October 2025
