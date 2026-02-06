@@ -16,12 +16,19 @@ format:
 
 This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of **weekly seminars** co-organized by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
 
-Here, you will find:
+### Content of this website
 
 * [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
 * [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
+
+### Organizing team
+
+* Arianna Giannetti (LadHyX) : [arianna.giannetti@polytechnique.edu](mailto:arianna.giannetti@polytechnique.edu).
+* Thomas Lavigne (LMS) : [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu).
+* André Stabile (IMSIA) : [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr).
+* Flavien Loiseau (IMSIA) : [flavien.loiseau@ensta.fr](mailto:flavien.loiseau@ensta.fr).
 
 ![](Resources/Images/PoleMeca.jpg)
 
