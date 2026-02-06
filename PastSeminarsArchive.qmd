@@ -7,6 +7,16 @@ format:
 
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
+::::: {.talk-card}
+### 6th of February 2026
+
+**Title:** Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression
+ <br>
+**Author:** Flavien Loiseau (ENSTA)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://floiseau.github.io/2025_12_MePhy_I-Gaia_Day){.button target="_blank"}
+:::
 
 ::::: {.talk-card}
 ### 10th of October 2025
