@@ -1,9 +1,10 @@
 BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
 VERSION:2.0
-PRODID:-//ical.marudot.com//iCal Event Maker
-X-WR-CALNAME:Internal Seminar of the Pôle Mécanique
 NAME:Internal Seminar of the Pôle Mécanique
 CALSCALE:GREGORIAN
+X-WR-CALNAME:internal_seminars_pole_mecanique
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 LAST-MODIFIED:20250410T142247Z
@@ -27,100 +28,180 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1756891954099-26132@ical.marudot.com
+SUMMARY:Internal Seminar - André DE FIGUEIREDO STABILE
 DTSTART;TZID=Europe/Berlin:20250919T110000
 DTEND;TZID=Europe/Berlin:20250919T120000
-SUMMARY:Internal Seminar - André DE FIGUEIREDO STABILE
-DESCRIPTION:The parametrisation method for invariant manifolds: application to Hopf bifurcations in follower force problems\n
+DESCRIPTION:The parametrisation method for invariant manifolds: application
+  to Hopf bifurcations in follower force problems\n
 LOCATION:ENSTA Library at Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1757664161952-37663@ical.marudot.com
+SUMMARY:Internal Seminar - Adrien VET (POEMS\, Safran)
 DTSTART;TZID=Europe/Berlin:20251010T110000
 DTEND;TZID=Europe/Berlin:20251010T120000
-SUMMARY:Internal Seminar - Adrien VET (POEMS\, Safran)
-DESCRIPTION:Fatigue lifetime analysis of general 3D crack configurations using H-matrix accelerated boundary element method\n
+DESCRIPTION:Fatigue lifetime analysis of general 3D crack configurations us
+ ing H-matrix accelerated boundary element method\n
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1760508837459-67002@ical.marudot.com
+SUMMARY:Internal Seminar - João Victor Neves (IMSIA) & Mathieu Brodmann (L
+ MS)
 DTSTART;TZID=Europe/Berlin:20251107T110000
 DTEND;TZID=Europe/Berlin:20251107T120000
-SUMMARY:Internal Seminar - João Victor Neves (IMSIA) & Mathieu Brodmann (LMS)
-DESCRIPTION:João Victor Neves : Low order model for unsteady state of a laminar separation bubble using experimental data\nMathieu Brodmann : domain wall kinetics in single-crystal ferroelectric barium titanate\n
+DESCRIPTION:João Victor Neves : Low order model for unsteady state of a la
+ minar separation bubble using experimental data\nMathieu Brodmann : domain 
+ wall kinetics in single-crystal ferroelectric barium titanate\n
 LOCATION:LadHyX library
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1760509114207-77371@ical.marudot.com
+SUMMARY:Internal Seminar - Emile Balandier (LMI) & Charlie Bastien (IMSIA +
+  SAFRAN)
 DTSTART;TZID=Europe/Berlin:20251114T110000
 DTEND;TZID=Europe/Berlin:20251114T120000
-SUMMARY:Internal Seminar - Emile Balandier (LMI) & Charlie Bastien (IMSIA + SAFRAN)
-DESCRIPTION:Emile Balandier : Influence of static magnetic fields on bone remodeling.\nCharlie Bastien :  Toward a model-order reduction technique based on a nonlinear component mode synthesis for problems with both distributed and localized nonlinearities.
+DESCRIPTION:Emile Balandier : Influence of static magnetic fields on bone r
+ emodeling.\nCharlie Bastien :  Toward a model-order reduction technique bas
+ ed on a nonlinear component mode synthesis for problems with both distribut
+ ed and localized nonlinearities.
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1760509023080-34769@ical.marudot.com
+SUMMARY:Internal Seminar - Barthélémy Thibaud (Université de Montpellier
+ )
 DTSTART;TZID=Europe/Berlin:20251121T110000
 DTEND;TZID=Europe/Berlin:20251121T120000
-SUMMARY:Internal Seminar - Barthélémy Thibaud (Université de Montpellier)
 DESCRIPTION:Barthélémy Thibaud : TBA
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1760509168513-97781@ical.marudot.com
+SUMMARY:Internal Seminar - Marc Vacher (LadHyX) & Esteban Valdecasa (LadHyX
+ )
 DTSTART;TZID=Europe/Berlin:20251128T110000
 DTEND;TZID=Europe/Berlin:20251128T120000
-SUMMARY:Internal Seminar - Marc Vacher (LadHyX) & Esteban Valdecasa (LadHyX)
 DESCRIPTION:Marc Vacher : TBA\nEsteban Valdecasa : TBA
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260120T151133Z
+LAST-MODIFIED:20260206T070510Z
+DTSTAMP:20260206T070510Z
 UID:1760509265984-39974@ical.marudot.com
+SUMMARY:Internal Seminar - Flavien Loiseau (IMSIA)
 DTSTART;TZID=Europe/Berlin:20260206T110000
 DTEND;TZID=Europe/Berlin:20260206T120000
-SUMMARY:Internal Seminar - Manas Upadhyay (LMS)
-DESCRIPTION:Rapid Laser–Metal Interactions at the Micron Scale: A Fluid–Solid Problem
-LOCATION:Amphitheater of Pôle Mécanique
+DESCRIPTION;ALTREP="data:text/html,Revisiting%20Fracture%20Mechanic%20Handb
+ ooks%20with%20(Interpretable)%20Sparse%20Regression":Revisiting Fracture Me
+ chanic Handbooks with (Interpretable) Sparse Regression
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
+SEQUENCE:1
+X-MOZ-GENERATION:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260120T151133Z
+LAST-MODIFIED:20260206T070507Z
+DTSTAMP:20260206T070507Z
 UID:1768921804926-67386@ical.marudot.com
+SUMMARY:Internal Seminars - Artur Ruppel (invited speaker from Institut Pas
+ teur)
 DTSTART;TZID=Europe/Berlin:20260220T110000
 DTEND;TZID=Europe/Berlin:20260220T120000
-SUMMARY:Internal Seminars - Artur Ruppel (invited speaker from Institut Pasteur)
-DESCRIPTION:Designing minimalistic tissues\, a reductonist approach to dissect collective cell behaviour
-LOCATION:Amphitheater of Pôle Mécanique
+DESCRIPTION:Designing minimalistic tissues\, a reductonist approach to diss
+ ect collective cell behaviour
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
+SEQUENCE:1
+X-MOZ-GENERATION:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260120T151133Z
+LAST-MODIFIED:20260206T070715Z
+DTSTAMP:20260206T070715Z
 UID:1760509232586-77086@ical.marudot.com
+SUMMARY:Internal Seminar - Auregan Boyet\, Diego Gutierrez-Oribio & David R
+ iley (IMSIA)
 DTSTART;TZID=Europe/Berlin:20260327T110000
 DTEND;TZID=Europe/Berlin:20260327T120000
-SUMMARY:Internal Seminar - Auregan Boyet\, Diego Gutierrez-Oribio & David Riley (IMSIA)
 DESCRIPTION:TBA
-LOCATION:Amphitheater of Pôle Mécanique
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
+SEQUENCE:1
+X-MOZ-GENERATION:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1760509306865-46284@ical.marudot.com
+SUMMARY:Internal Seminar (Paris Postdoc Network) - Anna Chrzanowska (Paris 
+ Brain Institute)
 DTSTART;TZID=Europe/Berlin:20260619T110000
 DTEND;TZID=Europe/Berlin:20260619T120000
-SUMMARY:Internal Seminar (Paris Postdoc Network) - Anna Chrzanowska (Paris Brain Institute)
-DESCRIPTION:How learning shapes individualized brain circuits in fruit flies
+DESCRIPTION:How learning shapes individualized brain circuits in fruit flie
+ s
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260120T151133Z
 UID:1760509351571-32742@ical.marudot.com
+SUMMARY:Internal Seminar (Paris Postdoc Network) - Khaldoun GHARZEDDINE (In
+ stitut Necker Enfants Malades (INEM))
 DTSTART;TZID=Europe/Berlin:20260626T110000
 DTEND;TZID=Europe/Berlin:20260626T120000
-SUMMARY:Internal Seminar (Paris Postdoc Network) - Khaldoun GHARZEDDINE (Institut Necker Enfants Malades (INEM))
-DESCRIPTION:Towards Immunotherapy Approaches Targeting CD47-SIRPa Axis in Relapsing T-ALL
+DESCRIPTION:Towards Immunotherapy Approaches Targeting CD47-SIRPa Axis in R
+ elapsing T-ALL
 LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260206T070612Z
+DTSTAMP:20260206T070612Z
+UID:0ec9b30d-bc80-48b3-9a9d-9d3a45bae927
+SUMMARY:Internal Seminars - Marion & Juilen (LadHyX)
+DTSTART;TZID=Europe/Berlin:20260227T110000
+DTEND;TZID=Europe/Berlin:20260227T120000
+DESCRIPTION;ALTREP="data:text/html,%3Cbr%3E":\n
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
+SEQUENCE:1
+X-MOZ-GENERATION:2
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260206T070651Z
+DTSTAMP:20260206T070651Z
+UID:af69f235-4eb4-491d-bbbb-a305309156bd
+SUMMARY:Internal Seminars - Xavier Plouseau-Guédé (IMSIA/LMI)
+DTSTART;TZID=Europe/Berlin:20260313T110000
+DTEND;TZID=Europe/Berlin:20260313T120000
+DESCRIPTION;ALTREP="data:text/html,%3Cbr%3E":\n
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
+SEQUENCE:1
+X-MOZ-GENERATION:3
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260206T070951Z
+DTSTAMP:20260206T070951Z
+UID:76d391d5-49dd-44e2-8024-fbc2f1a93527
+SUMMARY:Internal Seminar - Loucas Plado Costante (CEA)
+DTSTART;TZID=Europe/Berlin:20260403T110000
+DTEND;TZID=Europe/Berlin:20260403T120000
+DESCRIPTION;ALTREP="data:text/html,Turbulence-Driven%20Vibrations%20of%20a%
+ 20Reactor%20Core%20Barrel":Turbulence-Driven Vibrations of a Reactor Core B
+ arrel
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
+SEQUENCE:3
+X-MOZ-GENERATION:3
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260206T071239Z
+DTSTAMP:20260206T071239Z
+UID:b117af1c-2899-478c-93af-6f9ca785fef5
+SUMMARY:Internal Seminar - Lony Kiakouama (IMSIA)\, Arthur Gautreau (IMSIA)
+  & Mariana Otoya
+DTSTART;TZID=Europe/Berlin:20260417T110000
+DTEND;TZID=Europe/Berlin:20260417T120000
+DESCRIPTION:TBA
+SEQUENCE:4
+X-MOZ-GENERATION:5
+LOCATION:Meeting Room near the Amphitheater of Pôle Mécanique
 END:VEVENT
 END:VCALENDAR
