@@ -18,18 +18,13 @@ This website serves as a central hub for the Pôle Méca internal seminar series
 This series consists of **regular seminars** co-organized by all labs from the **Pôle Mécanique**.
 Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
 
-Here, you can find:
+In addition to this page, you can find:
 
-* [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
-* [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
 
 ### {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
-
-To stay updated, you can subscribe to the calendar using the following **ICS link** in your preferred calendar application: 🔗 **[Subscribe via ICS](https://raw.githubusercontent.com/polemecanique/internal_seminars/refs/heads/main/Resources/internal_seminars_pole_mecanique.ics)**.
-
 
 <iframe id="open-web-calendar" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
@@ -37,6 +32,8 @@ To stay updated, you can subscribe to the calendar using the following **ICS lin
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
     allowTransparency="true" scrolling="no" 
     frameborder="0" height="250px" width="100%"></iframe>
+
+To stay updated, you can subscribe to the calendar using the following **ICS link** in your preferred calendar application: <br> 🔗 **[Subscribe via ICS](https://raw.githubusercontent.com/polemecanique/internal_seminars/refs/heads/main/Resources/internal_seminars_pole_mecanique.ics)**.
 
 ### {{< iconify fa6-solid:people-group >}} &nbsp; Organizers
 
@@ -54,10 +51,7 @@ To propose a talk, please contact one of the organizers with the following infor
 - **Name**
 - **Lab/Affiliation**
 - **Presentation title**
-- **Format**:
-  - Very short (around 10 minutes)
-  - Short (around 20 minutes)
-  - Long (around 40-45 minutes)
+- **Format**: very short (around 10 minutes), short (around 20 minutes), long (around 40-45 minutes).
 - **Additional remarks** (e.g., schedule constraints, preferred date, or other format requests)
 
 The list of proposed speakers is available here: [https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576](https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576).
