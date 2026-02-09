@@ -1,6 +1,6 @@
 ---
 # title: Junior researchers - WIKI
-toc: false
+toc: true
 about:
   template: marquee
   links:
@@ -12,23 +12,56 @@ format:
     page-layout: full
 ---
 
-## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the internal Pôle Méca internal seminar series webpage!
+## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the Pôle Méca internal seminar series webpage!
 
-This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of **weekly seminars** co-organized by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
+This website serves as a central hub for the Pôle Méca internal seminar series.
+This series consists of **regular seminars** co-organized by all labs from the **Pôle Mécanique**.
+Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
 
-### Content of this website
+Here, you can find:
 
 * [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
 * [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
-### Organizing team
 
-* Arianna Giannetti (LadHyX) : [arianna.giannetti@polytechnique.edu](mailto:arianna.giannetti@polytechnique.edu).
-* Thomas Lavigne (LMS) : [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu).
-* André Stabile (IMSIA) : [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr).
-* Flavien Loiseau (IMSIA) : [flavien.loiseau@ensta.fr](mailto:flavien.loiseau@ensta.fr).
+### {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
+
+To stay updated, you can subscribe to the calendar using the following **ICS link** in your preferred calendar application: 🔗 **[Subscribe via ICS](https://raw.githubusercontent.com/polemecanique/internal_seminars/refs/heads/main/Resources/internal_seminars_pole_mecanique.ics)**.
+
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://icsviewer.ecam.fr/calendar.html?css=.CALENDAR-INDEX-0%20%7B%20background-color%3A%20%231c71d8%3B%20%7D&amp;tab=agenda&amp;tabs=agenda&amp;title=Internal%20Seminar%20P%C3%B4le%20M%C3%A9canique&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolemecanique%2Finternal_seminars%2Frefs%2Fheads%2Fmain%2FResources%2Finternal_seminars_pole_mecanique.ics"
+    sandbox="allow-scripts allow-same-origin allow-top-navigation"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="250px" width="100%"></iframe>
+
+### {{< iconify fa6-solid:people-group >}} &nbsp; Organizers
+
+  **Name**               | **Affiliation** | **Email**                                      |
+|------------------------|-----------------|------------------------------------------------|
+| Arianna Giannetti      | LadHyX          | [arianna.giannetti@polytechnique.edu](mailto:arianna.giannetti@polytechnique.edu) |
+| Thomas Lavigne         | LMS             | [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu)         |
+| André Stabile          | IMSIA           | [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr) |
+| Flavien Loiseau        | IMSIA           | [flavien.loiseau@ensta.fr](mailto:flavien.loiseau@ensta.fr)       
+
+### {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Propose a talk
+
+To propose a talk, please contact one of the organizers with the following information:
+
+- **Name**
+- **Lab/Affiliation**
+- **Presentation title**
+- **Format**:
+  - Very short (around 10 minutes)
+  - Short (around 20 minutes)
+  - Long (around 40-45 minutes)
+- **Additional remarks** (e.g., schedule constraints, preferred date, or other format requests)
+
+The list of proposed speakers is available here: [https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576](https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576).
+
 
 ![](Resources/Images/PoleMeca.jpg)
 

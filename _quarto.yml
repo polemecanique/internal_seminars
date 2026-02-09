@@ -23,12 +23,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: Schedule.qmd
-        text: Schedule
-      - href: Registration.qmd
-        text: Register
+      # - href: Schedule.qmd
+      #   text: Schedule
+      # - href: Registration.qmd
+      #   text: Register
       - href: PastSeminarsArchive.qmd
-        text: Archive
+        text: Archives
       - href: AdditionalResources.qmd
         text: Miscellaneous
       - href: "https://polemecanique.github.io"

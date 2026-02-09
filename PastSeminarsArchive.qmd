@@ -5,7 +5,7 @@ format:
     page-layout: full
 ---
 
-## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
+## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Past talks
 
 ::::: {.talk-card}
 ### 6th of February 2026
@@ -166,3 +166,10 @@ format:
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://seminaris.polytechnique.fr/share/s/tK5J9TMtKF3iHPP){.button target="_blank"}
 :::
 :::::
+
+## {{< iconify fa6-solid:people-group >}} Past organizers
+
+  **Name**                | **Affiliation** |
+|-------------------------|-----------------|
+| Alexandre Daby-Seesaram | LMS             |
+| Wladimir Sarlin         | LadHyX          |
