@@ -154,28 +154,167 @@ DESCRIPTION:Towards Immunotherapy Approaches Targeting CD47-SIRPa Axis in R
 LOCATION:Amphitheater of Pôle Mécanique
 END:VEVENT
 BEGIN:VEVENT
-LAST-MODIFIED:20260223T114531Z
-DTSTAMP:20260223T114531Z
+LAST-MODIFIED:20260224T164952Z
+DTSTAMP:20260224T164952Z
 UID:0ec9b30d-bc80-48b3-9a9d-9d3a45bae927
 SUMMARY:Internal Seminars - Marion Cocusse & Julien Le Dreff (LadHyX)
 DTSTART;TZID=Europe/Berlin:20260227T110000
 DTEND;TZID=Europe/Berlin:20260227T120000
-DESCRIPTION;ALTREP="data:text/html,%3Cbr%3E":\n
-LOCATION:104-10-55 (meeting Room near the Amphitheater of Pôle Mécanique)
-SEQUENCE:2
-X-MOZ-GENERATION:4
+DESCRIPTION;ALTREP="data:text/html,Cocusse%20Marion%20%3A%20%222D%20turbule
+ nce%20under%20the%20full%20Coriolis%20force%20in%20a%20stratified%20rotatin
+ g%20fluid%22%3Cbr%3E%0AThe%20traditional%20approximation%2C%20which%20is%20
+ widely%20used%20in%20geophysical%20fluid%0A%20dynamics%2C%20consists%20in%2
+ 0neglecting%20the%20horizontal%20component%20of%20the%20%0Aplanetary%20angu
+ lar%20velocity%20vector%20(i.e.%20the%20non-traditional%20component)%20%0Ac
+ ompared%20to%20the%20vertical%20one%20(i.e.%20the%20traditional%20component
+ ).%20This%20is%20%0Ajustified%20by%20the%20fact%20that%20vertical%20motions
+ %20are%20usually%20weak%20compared%20to%0A%20horizontal%20motions%20for%20g
+ eophysical%20flows.%20However%2C%20under%20certain%20%0Acircumstances%20suc
+ h%20as%20at%20low%20latitudes%20or%20for%20large%20vertical%20velocities%2C
+ %0A%20the%20Coriolis%20force%20due%20to%20the%20non-traditional%20component
+ %20of%20the%20%0Abackground%20rotation%20can%20become%20non-negligible.%20H
+ ere%2C%20we%20investigate%20the%20%0Aimpact%20of%20this%20non-traditional%2
+ 0Coriolis%20force%20for%20different%20flows%20with%20%0ADNS.%20First%2C%20w
+ e%20examine%20a%202D%20Lamb-Oseen%20vortex%20and%20show%20that%2C%20under%2
+ 0weak%20%0Astratification%2C%20a%20critical%20layer%20appears%2C%20and%20an
+ %20instability%20accelerates%0A%20the%20decay%20of%20the%20vortex.%C2%A0%20
+ We%20then%20consider%20forced%202D%20turbulence%20%0Agenerated%20through%20
+ two%20distinct%20forcing%3A%20Lamb-Oseen%20vortices%20dipoles%20%0Aperiodic
+ ally%20produced%20on%20the%20side%20of%20the%20domain%2C%20and%20a%20random
+ %20forcing%20in%0A%20spectral%20space.%20We%20find%20that%20the%20non-tradi
+ tional%20Coriolis%20force%20induces%0A%20an%20anomalous%20dissipation%20of%
+ 20energy%2C%20thereby%20disrupting%20the%20classical%20%0Ainverse%20energy%
+ 20cascade%20characteristic%20of%202D%20turbulence.%3Cbr%3E%0A%3Cbr%3E%0ALe%
+ 20Dreff%20Julien%20%3A%20%22Moving%20backward%20to%20go%20faster%3A%20Diato
+ m-inspired%20sliding%20reveals%20efficient%20modes%20of%20locomotion%22%3Cb
+ r%3E%0AAcross%20biological%20scales%2C%20from%20sperm%20cells%20to%20whales
+ %2C%20locomotion%20%0Acommonly%20relies%20on%20undulatory%20gaits%2C%20in%2
+ 0which%20traveling%20deformation%20%0Awaves%20interact%20with%20the%20surro
+ unding%20fluid%20to%20generate%20thrust%20opposite%20to%0A%20the%20directio
+ n%20of%20wave%20propagation.%20In%20viscous%20environments%2C%20%0Amicroorg
+ anism%20locomotion%20is%20classically%20understood%20in%20terms%20of%20%0Au
+ ndulatory%20bending%20of%20slender%20filaments%20such%20as%20flagella%2C%20
+ with%20optimal%20%0Apropulsion%20achieved%20when%20the%20deformation%20wave
+ length%20is%20comparable%20to%20the%0A%20swimmer%20length.%20Inspired%20by%
+ 20diatom%20colonies%2C%20we%20identify%20a%20%0Afundamentally%20different%2
+ 0swimming%20mechanism%20based%20on%20sliding%20between%20%0Aneighboring%20e
+ lements%20within%20a%20chain.%20We%20show%20that%20sliding%20between%20%0As
+ tacked%20elongated%20cells%20generates%20internal%20shear%20that%20drives%2
+ 0propulsion%20%0Aopposite%20to%20classical%20undulatory%20swimming%2C%20whi
+ le%20achieving%20higher%20speeds%0A%20and%20greater%20energetic%20efficienc
+ y.%20Remarkably%2C%20optimal%20performance%20%0Aoccurs%20at%20wavelengths%2
+ 0much%20larger%20than%20the%20chain%20length%20and%20at%20cell%20%0Aaspect%
+ 20ratios%20consistent%20with%20those%20observed%20in%20natural%20diatom%20c
+ olonies%2C%0A%20suggesting%20that%20hydrodynamic%20efficiency%20may%20const
+ itute%20an%20evolutionary%20%0Aselective%20pressure%20in%20diatom%20chains.
+ %20Together%2C%20these%20results%20identify%20%0Asliding%20as%20a%20previou
+ sly%20overlooked%20mode%20of%20locomotion%20in%20multicellular%20%0Aassembl
+ ies.":Cocusse Marion : "2D turbulence under the full Coriolis force in a st
+ ratified rotating fluid"\n\nThe traditional approximation\, which is widely
+  used in geophysical fluid\n dynamics\, consists in neglecting the horizont
+ al component of the \nplanetary angular velocity vector (i.e. the non-tradi
+ tional component) \ncompared to the vertical one (i.e. the traditional comp
+ onent). This is \njustified by the fact that vertical motions are usually w
+ eak compared to\n horizontal motions for geophysical flows. However\, under
+  certain \ncircumstances such as at low latitudes or for large vertical vel
+ ocities\,\n the Coriolis force due to the non-traditional component of the 
+ \nbackground rotation can become non-negligible. Here\, we investigate the 
+ \nimpact of this non-traditional Coriolis force for different flows with \n
+ DNS. First\, we examine a 2D Lamb-Oseen vortex and show that\, under weak \
+ nstratification\, a critical layer appears\, and an instability accelerates
+ \n the decay of the vortex.  We then consider forced 2D turbulence \ngenera
+ ted through two distinct forcing: Lamb-Oseen vortices dipoles \nperiodicall
+ y produced on the side of the domain\, and a random forcing in\n spectral s
+ pace. We find that the non-traditional Coriolis force induces\n an anomalou
+ s dissipation of energy\, thereby disrupting the classical \ninverse energy
+  cascade characteristic of 2D turbulence.\n\n\n\nLe Dreff Julien : "Moving 
+ backward to go faster: Diatom-inspired sliding reveals efficient modes of l
+ ocomotion"\n\nAcross biological scales\, from sperm cells to whales\, locom
+ otion \ncommonly relies on undulatory gaits\, in which traveling deformatio
+ n \nwaves interact with the surrounding fluid to generate thrust opposite t
+ o\n the direction of wave propagation. In viscous environments\, \nmicroorg
+ anism locomotion is classically understood in terms of \nundulatory bending
+  of slender filaments such as flagella\, with optimal \npropulsion achieved
+  when the deformation wavelength is comparable to the\n swimmer length. Ins
+ pired by diatom colonies\, we identify a \nfundamentally different swimming
+  mechanism based on sliding between \nneighboring elements within a chain. 
+ We show that sliding between \nstacked elongated cells generates internal s
+ hear that drives propulsion \nopposite to classical undulatory swimming\, w
+ hile achieving higher speeds\n and greater energetic efficiency. Remarkably
+ \, optimal performance \noccurs at wavelengths much larger than the chain l
+ ength and at cell \naspect ratios consistent with those observed in natural
+  diatom colonies\,\n suggesting that hydrodynamic efficiency may constitute
+  an evolutionary \nselective pressure in diatom chains. Together\, these re
+ sults identify \nsliding as a previously overlooked mode of locomotion in m
+ ulticellular \nassemblies.
+LOCATION:LadHyX library
+SEQUENCE:3
+X-MOZ-GENERATION:5
 END:VEVENT
 BEGIN:VEVENT
-LAST-MODIFIED:20260206T153616Z
-DTSTAMP:20260206T153616Z
+LAST-MODIFIED:20260305T065932Z
+DTSTAMP:20260305T065932Z
 UID:af69f235-4eb4-491d-bbbb-a305309156bd
 SUMMARY:Internal Seminars - Xavier Plouseau-Guédé (IMSIA/LMI)
 DTSTART;TZID=Europe/Berlin:20260313T110000
 DTEND;TZID=Europe/Berlin:20260313T120000
-DESCRIPTION;ALTREP="data:text/html,%3Cbr%3E":\n
+DESCRIPTION;ALTREP="data:text/html,%3Cb%3ETitle%3A%3C%2Fb%3E%20Similitude%2
+ 0laws%20applied%20to%20the%20vibroacoustic%20of%20plates%20immersed%20in%20
+ a%20heavy%20fluid%20and%20excited%20by%20a%20turbulent%20boundary%20layer%3
+ Cbr%3E%3Cbr%3E%3Cb%3EAbstract%3A%3C%2Fb%3E%3Cbr%3EIn%20the%20marine%20secto
+ r%2C%20controlling%20the%20self-noise%20and%20radiated%20noise%20of%20marin
+ e%20vehicles%20is%20a%20key%20challenge.%20The%20characterization%20of%20th
+ e%20vibro-acoustic%20response%20of%20these%20structures%2C%20before%20produ
+ ction%2C%20is%20necessary%20to%20ensure%20performance%20control.%20However%
+ 2C%20the%20structures%20developed%20in%20this%20sector%20are%20large%2C%20s
+ tiffened%2C%20coupled%20to%20a%20heavy%20fluid%20and%20subject%20to%20turbu
+ lent%20flow%2C%20making%20experimentation%20difficult%2C%20costly%20and%20t
+ ime-consuming.%20The%20work%20carried%20out%20investigates%20the%20possibil
+ ity%20of%20overcoming%20these%20constraints%20by%20developing%20an%20approa
+ ch%20based%20on%20similitude%20theory.%20This%20theory%20enables%20two%20sy
+ stems%20and%20their%20responses%20to%20be%20linked%20by%20so-called%20simil
+ itude%20laws%2C%20providing%20the%20conditions%20under%20which%20the%20resp
+ onse%20of%20the%20full-scale%20system%20can%20be%20predicted%20by%20evaluat
+ ing%20the%20response%20of%20a%20scaled-down%20system%2C%20whose%20propertie
+ s%20in%20terms%20of%20dimensions%2C%20material%2C%20surrounding%20fluid%20a
+ nd%20external%20loading%20are%20different.%20More%20specifically%2C%20this%
+ 20research%20project%20focuses%20on%20the%20case%20of%20a%20planar%20panel%
+ 2C%20stiffened%20or%20unstiffened%2C%20loaded%20by%20a%20heavy%20fluid%20an
+ d%20excited%20by%20a%20turbulent%20boundary%20layer.%20The%20development%20
+ of%20similitude%20laws%20reveals%20the%20conditions%20to%20be%20met%20in%20
+ order%20to%20obtain%20an%20accurate%20prediction%20of%20the%20desired%20res
+ ponse.%20The%20similitude%20laws%20and%20conditions%20are%20first%20studied
+ %20and%20verified%20numerically.%20Next%2C%20a%20measurement%20campaign%20i
+ s%20carried%20out%20to%20validate%20these%20laws%20for%20panels%20excited%2
+ 0by%20a%20turbulent%20boundary%20layer%20in%20air.%20This%20seminar%20prese
+ nts%20the%20method%20and%20some%20of%20the%20results%20obtained%20during%20
+ the%20three%20years%20of%20the%20project.":Title: Similitude laws applied t
+ o the vibroacoustic of plates immersed in a heavy fluid and excited by a tu
+ rbulent boundary layer\n\nAbstract:\nIn the marine sector\, controlling the
+  self-noise and radiated noise of marine vehicles is a key challenge. The c
+ haracterization of the vibro-acoustic response of these structures\, before
+  production\, is necessary to ensure performance control. However\, the str
+ uctures developed in this sector are large\, stiffened\, coupled to a heavy
+  fluid and subject to turbulent flow\, making experimentation difficult\, c
+ ostly and time-consuming. The work carried out investigates the possibility
+  of overcoming these constraints by developing an approach based on similit
+ ude theory. This theory enables two systems and their responses to be linke
+ d by so-called similitude laws\, providing the conditions under which the r
+ esponse of the full-scale system can be predicted by evaluating the respons
+ e of a scaled-down system\, whose properties in terms of dimensions\, mater
+ ial\, surrounding fluid and external loading are different. More specifical
+ ly\, this research project focuses on the case of a planar panel\, stiffene
+ d or unstiffened\, loaded by a heavy fluid and excited by a turbulent bound
+ ary layer. The development of similitude laws reveals the conditions to be 
+ met in order to obtain an accurate prediction of the desired response. The 
+ similitude laws and conditions are first studied and verified numerically. 
+ Next\, a measurement campaign is carried out to validate these laws for pan
+ els excited by a turbulent boundary layer in air. This seminar presents the
+  method and some of the results obtained during the three years of the proj
+ ect.
 LOCATION:104-10-55 (meeting Room near the Amphitheater of Pôle Mécanique)
 SEQUENCE:2
-X-MOZ-GENERATION:4
+X-MOZ-GENERATION:6
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20260206T153635Z
