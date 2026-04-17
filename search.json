@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "AdditionalResources.html",
-    "href": "AdditionalResources.html",
-    "title": "Additional resources",
-    "section": "",
-    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
-  },
-  {
-    "objectID": "AdditionalResources.html#scientific-writing",
-    "href": "AdditionalResources.html#scientific-writing",
-    "title": "Additional resources",
-    "section": "",
-    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
-  },
-  {
-    "objectID": "AdditionalResources.html#figures-editing",
-    "href": "AdditionalResources.html#figures-editing",
-    "title": "Additional resources",
-    "section": "   Figures editing",
-    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pôle Méca seminar series",
@@ -28,11 +7,32 @@
     "text": "This website serves as a central hub for the Pôle Méca internal seminar series. This series consists of regular seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nIn addition to this page, you can find:\n\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nMiscellaneous: Additional information and tools to support your daily scientific activities.\n\n\n\n\n\nTo stay updated, you can subscribe to the calendar using the following ICS link in your preferred calendar application:  🔗 Subscribe via ICS.\n\n\n\n\n\n\nName\nAffiliation\nEmail\n\n\n\n\nArianna Giannetti\nLadHyX\narianna.giannetti@polytechnique.edu\n\n\nThomas Lavigne\nLMS\nthomas.lavigne@polytechnique.edu\n\n\nAndré Stabile\nIMSIA\nandre.de-figueiredo-stabile@ensta.fr\n\n\nFlavien Loiseau\nIMSIA\nflavien.loiseau@ensta.fr\n\n\n\n\n\n\nTo propose a talk, please contact one of the organizers with the following information:\n\nName\nLab/Affiliation\nPresentation title\nFormat: very short (around 10 minutes), short (around 20 minutes), long (around 40-45 minutes).\nAdditional remarks (e.g., schedule constraints, preferred date, or other format requests)\n\nThe list of proposed speakers is available here: https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576."
   },
   {
-    "objectID": "index.html#welcome-to-the-pôle-méca-internal-seminar-series-webpage",
-    "href": "index.html#welcome-to-the-pôle-méca-internal-seminar-series-webpage",
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a626f6f6b2d61746c6173203e7d7d-welcome-to-the-pôle-méca-internal-seminar-series-webpage",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a626f6f6b2d61746c6173203e7d7d-welcome-to-the-pôle-méca-internal-seminar-series-webpage",
     "title": "Pôle Méca seminar series",
     "section": "",
     "text": "This website serves as a central hub for the Pôle Méca internal seminar series. This series consists of regular seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nIn addition to this page, you can find:\n\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nMiscellaneous: Additional information and tools to support your daily scientific activities.\n\n\n\n\n\nTo stay updated, you can subscribe to the calendar using the following ICS link in your preferred calendar application:  🔗 Subscribe via ICS.\n\n\n\n\n\n\nName\nAffiliation\nEmail\n\n\n\n\nArianna Giannetti\nLadHyX\narianna.giannetti@polytechnique.edu\n\n\nThomas Lavigne\nLMS\nthomas.lavigne@polytechnique.edu\n\n\nAndré Stabile\nIMSIA\nandre.de-figueiredo-stabile@ensta.fr\n\n\nFlavien Loiseau\nIMSIA\nflavien.loiseau@ensta.fr\n\n\n\n\n\n\nTo propose a talk, please contact one of the organizers with the following information:\n\nName\nLab/Affiliation\nPresentation title\nFormat: very short (around 10 minutes), short (around 20 minutes), long (around 40-45 minutes).\nAdditional remarks (e.g., schedule constraints, preferred date, or other format requests)\n\nThe list of proposed speakers is available here: https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576."
+  },
+  {
+    "objectID": "AdditionalResources.html",
+    "href": "AdditionalResources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e6966792066612d736f6c69643a70656e2d6e6962203e7d7d-scientific-writing",
+    "href": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e6966792066612d736f6c69643a70656e2d6e6962203e7d7d-scientific-writing",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636f6d706173732d6472616674696e67203e7d7d-figures-editing",
+    "href": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636f6d706173732d6472616674696e67203e7d7d-figures-editing",
+    "title": "Additional resources",
+    "section": "   Figures editing",
+    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri et al. 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier et al. 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
     "objectID": "PastSeminarsArchive.html",
@@ -42,15 +42,15 @@
     "text": "Title: Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression  Author: Flavien Loiseau (ENSTA)\n\n Slides\n\n\n\n\nTitle: Fatigue lifetime analysis of general 3D crack configurations using H-matrix accelerated boundary element method  Author: Adrien VET (ENSTA, Safran)\n\n Slides\n\n\n\n\nTitle: The parametrisation method for invariant manifolds: application to Hopf bifurcations in follower force problems  Author: André Stabile (ENSTA)\n\n Slides\n Associated paper\n\n\n\n\nTitle: Fatigue scatter model and non linear cumulative damage  Author: Théo Leclève (ENSTA)\n\n Slides\n\n\n\n\nTitle: Analysis of fatigue crack propagation with overload effects  Author: Ghita Bahaj-Filali (ENSTA)\n\n Slides\n\n\n\n\nTitle: Microstructure and properties of 316L steel produced by additive manufacturing using wire deposition (WAAM & WLAM): experimental characterisation and modelling  Author: Damien Artières (LMS)\n\n Slides\n\n\n\n\nTitle: Growth and shape of ice stalagmites  Author: Daniel Papa (LadHyX)\n\n Slides\n\n\n\n\nTitle:  Author: Xinyuan Zhai (IMSIA)\n\n Slides\n\n\n\n\nTitle: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
   },
   {
-    "objectID": "PastSeminarsArchive.html#past-talks",
-    "href": "PastSeminarsArchive.html#past-talks",
+    "objectID": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636c6f636b2d726f746174652d6c656674203e7d7d-past-talks",
+    "href": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636c6f636b2d726f746174652d6c656674203e7d7d-past-talks",
     "title": "Pôle Méca seminar series",
     "section": "",
     "text": "Title: Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression  Author: Flavien Loiseau (ENSTA)\n\n Slides\n\n\n\n\nTitle: Fatigue lifetime analysis of general 3D crack configurations using H-matrix accelerated boundary element method  Author: Adrien VET (ENSTA, Safran)\n\n Slides\n\n\n\n\nTitle: The parametrisation method for invariant manifolds: application to Hopf bifurcations in follower force problems  Author: André Stabile (ENSTA)\n\n Slides\n Associated paper\n\n\n\n\nTitle: Fatigue scatter model and non linear cumulative damage  Author: Théo Leclève (ENSTA)\n\n Slides\n\n\n\n\nTitle: Analysis of fatigue crack propagation with overload effects  Author: Ghita Bahaj-Filali (ENSTA)\n\n Slides\n\n\n\n\nTitle: Microstructure and properties of 316L steel produced by additive manufacturing using wire deposition (WAAM & WLAM): experimental characterisation and modelling  Author: Damien Artières (LMS)\n\n Slides\n\n\n\n\nTitle: Growth and shape of ice stalagmites  Author: Daniel Papa (LadHyX)\n\n Slides\n\n\n\n\nTitle:  Author: Xinyuan Zhai (IMSIA)\n\n Slides\n\n\n\n\nTitle: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
   },
   {
-    "objectID": "PastSeminarsArchive.html#past-organizers",
-    "href": "PastSeminarsArchive.html#past-organizers",
+    "objectID": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a70656f706c652d67726f7570203e7d7d-past-organizers",
+    "href": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a70656f706c652d67726f7570203e7d7d-past-organizers",
     "title": "Pôle Méca seminar series",
     "section": " Past organizers",
     "text": "Past organizers\n\n\n\nName\nAffiliation\n\n\n\n\nAlexandre Daby-Seesaram\nLMS\n\n\nWladimir Sarlin\nLadHyX"
