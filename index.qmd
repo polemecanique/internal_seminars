@@ -23,6 +23,23 @@ In addition to this page, you can find:
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
+## Upcoming seminar(s) 
+
+::::: {.talk-card}
+### 29th of May 2026 
+
+**Title:** Smart geomechanics
+ <br>
+**Speaker:** Ioannis Stefanou
+
+![](Resources/Documents/Presentations/2026/com_Stefanou.svg){width="50%" fig-align="center"}
+
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/I_Stefanou.pdf){.button target="_blank"}
+:::
+
+:::::
 
 ### {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
 
