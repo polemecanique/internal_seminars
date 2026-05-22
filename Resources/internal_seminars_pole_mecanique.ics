@@ -1,10 +1,8 @@
 BEGIN:VCALENDAR
 PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
 VERSION:2.0
-NAME:Internal Seminar of the Pôle Mécanique
-CALSCALE:GREGORIAN
+NAME:internal_seminars_pole_mecanique
 X-WR-CALNAME:internal_seminars_pole_mecanique
-X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-TZINFO:Europe/Berlin[2025b]
@@ -296,40 +294,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20260417T055346Z
 DTSTAMP:20260417T055346Z
-UID:3815c027-494d-43b5-91f1-30db83db8d9c
-SUMMARY:Internal Seminar - Auregan Boyet & Diego Gutierrez-Oribio (IMSIA)
-DTSTART;TZID=Europe/Berlin:20260327T110000
-DTEND;TZID=Europe/Berlin:20260327T120000
-DESCRIPTION:TBA
-LOCATION:104-10-55 (meeting Room near the Amphitheater of Pôle Mécanique)
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260417T055346Z
-DTSTAMP:20260417T055346Z
-UID:4ebfd430-a0fc-4e33-b6c7-477e575d1f7f
-SUMMARY:Internal Seminar (Paris Postdoc Network) - Anna Chrzanowska (Paris 
- Brain Institute)
-DTSTART;TZID=Europe/Berlin:20260619T110000
-DTEND;TZID=Europe/Berlin:20260619T120000
-DESCRIPTION:How learning shapes individualized brain circuits in fruit flie
- s
-LOCATION:Amphitheater of Pôle Mécanique
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260417T055346Z
-DTSTAMP:20260417T055346Z
-UID:47f92744-0599-4170-9f17-0755d5ee3c25
-SUMMARY:Internal Seminar (Paris Postdoc Network) - Khaldoun GHARZEDDINE (In
- stitut Necker Enfants Malades (INEM))
-DTSTART;TZID=Europe/Berlin:20260626T110000
-DTEND;TZID=Europe/Berlin:20260626T120000
-DESCRIPTION:Towards Immunotherapy Approaches Targeting CD47-SIRPa Axis in R
- elapsing T-ALL
-LOCATION:Amphitheater of Pôle Mécanique
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260417T055346Z
-DTSTAMP:20260417T055346Z
 UID:9522ab85-9246-46eb-8990-d3e53e288c39
 SUMMARY:Internal Seminars - Marion Cocusse & Julien Le Dreff (LadHyX)
 DTSTART;TZID=Europe/Berlin:20260227T110000
@@ -484,6 +448,16 @@ DESCRIPTION;ALTREP="data:text/html,%3Cb%3ETitle%3A%3C%2Fb%3E%20Similitude%2
  els excited by a turbulent boundary layer in air. This seminar presents the
   method and some of the results obtained during the three years of the proj
  ect.
+LOCATION:104-10-55 (meeting Room near the Amphitheater of Pôle Mécanique)
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260417T055346Z
+DTSTAMP:20260417T055346Z
+UID:3815c027-494d-43b5-91f1-30db83db8d9c
+SUMMARY:Internal Seminar - Auregan Boyet & Diego Gutierrez-Oribio (IMSIA)
+DTSTART;TZID=Europe/Berlin:20260327T110000
+DTEND;TZID=Europe/Berlin:20260327T120000
+DESCRIPTION:TBA
 LOCATION:104-10-55 (meeting Room near the Amphitheater of Pôle Mécanique)
 END:VEVENT
 BEGIN:VEVENT
@@ -911,5 +885,43 @@ DTSTART;TZID=Europe/Paris:20260612T110000
 DTEND;TZID=Europe/Paris:20260612T120000
 TRANSP:OPAQUE
 LOCATION:104-10-55 (meeting Room near the Amphitheater of Pôle Mécanique)
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260417T055346Z
+DTSTAMP:20260417T055346Z
+UID:4ebfd430-a0fc-4e33-b6c7-477e575d1f7f
+SUMMARY:Internal Seminar (Paris Postdoc Network) - Anna Chrzanowska (Paris 
+ Brain Institute)
+DTSTART;TZID=Europe/Berlin:20260619T110000
+DTEND;TZID=Europe/Berlin:20260619T120000
+DESCRIPTION:How learning shapes individualized brain circuits in fruit flie
+ s
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260417T055346Z
+DTSTAMP:20260417T055346Z
+UID:47f92744-0599-4170-9f17-0755d5ee3c25
+SUMMARY:Internal Seminar (Paris Postdoc Network) - Khaldoun GHARZEDDINE (In
+ stitut Necker Enfants Malades (INEM))
+DTSTART;TZID=Europe/Berlin:20260626T110000
+DTEND;TZID=Europe/Berlin:20260626T120000
+DESCRIPTION:Towards Immunotherapy Approaches Targeting CD47-SIRPa Axis in R
+ elapsing T-ALL
+LOCATION:Amphitheater of Pôle Mécanique
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260417T072706Z
+LAST-MODIFIED:20260522T105943Z
+DTSTAMP:20260522T105943Z
+UID:70235325-610c-4b77-9d97-0f81e3f2f02b
+SUMMARY:Internal Seminar - Ioannis STEFANOU (IMSIA)
+DTSTART;TZID=Europe/Paris:20260529T110000
+DTEND;TZID=Europe/Paris:20260529T120000
+TRANSP:OPAQUE
+LOCATION:Amphitheater of Pôle Mécanique
+DESCRIPTION;ALTREP="data:text/html,Smart%20geomechanics":Smart geomechanics
+SEQUENCE:1
+X-MOZ-GENERATION:1
 END:VEVENT
 END:VCALENDAR
