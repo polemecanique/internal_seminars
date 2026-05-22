@@ -60,6 +60,8 @@ To stay updated, you can subscribe to the calendar using the following **ICS lin
 | Thomas Lavigne         | LMS             | [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu)         |
 | André Stabile          | IMSIA           | [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr) |
 | Flavien Loiseau        | IMSIA           | [flavien.loiseau@ensta.fr](mailto:flavien.loiseau@ensta.fr)       
+| Lony Kiakouama         | IMSIA           | [lony.kiakouama@ensta.fr](mailto:lony.kiakouama@ensta.fr)
+| Arthur Gautreau        | IMSIA           | [arthur.gautreau@ensta.fr](mailto:arthur.gautreau@ensta.fr)
 
 ### {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Propose a talk
 
