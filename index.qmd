@@ -26,13 +26,13 @@ In addition to this page, you can find:
 ## Upcoming seminar(s) 
 
 ::::: {.talk-card}
-### 29th of May 2026 
+### 5th of June 2026 
 
-**Title:** Smart geomechanics
+**Title:** To Be Announced
  <br>
-**Speaker:** Ioannis Stefanou
+**Speaker:** Paul Bienvenu (PMMH) and Alexandre Tlili (CEA)
 
-![](Resources/Documents/Presentations/2026/com_Stefanou.svg){width="50%" fig-align="center"}
+![](Resources/Documents/Presentations/2026/tba.pdf){width="50%" fig-align="center"}
 
 
 ::: {.button}
