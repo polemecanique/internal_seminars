@@ -32,7 +32,7 @@ In addition to this page, you can find:
  <br>
 **Speaker:** Paul Bienvenu (PMMH) and Alexandre Tlili (CEA)
 
-![](Resources/Documents/Presentations/2026/tba.pdf){width="50%" fig-align="center"}
+![](Resources/Documents/Presentations/2026/tba.1.png){width="50%" fig-align="center"}
 
 
 ::: {.button}
