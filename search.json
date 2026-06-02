@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "AdditionalResources.html",
-    "href": "AdditionalResources.html",
-    "title": "Additional resources",
-    "section": "",
-    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
-  },
-  {
-    "objectID": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e6966792066612d736f6c69643a70656e2d6e6962203e7d7d-scientific-writing",
-    "href": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e6966792066612d736f6c69643a70656e2d6e6962203e7d7d-scientific-writing",
-    "title": "Additional resources",
-    "section": "",
-    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
-  },
-  {
-    "objectID": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636f6d706173732d6472616674696e67203e7d7d-figures-editing",
-    "href": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636f6d706173732d6472616674696e67203e7d7d-figures-editing",
-    "title": "Additional resources",
-    "section": "   Figures editing",
-    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri et al. 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier et al. 2014)\nNice tool for plotting data in latex: PGFplot"
-  },
-  {
     "objectID": "PastSeminarsArchive.html",
     "href": "PastSeminarsArchive.html",
     "title": "Pôle Méca seminar series",
@@ -40,6 +19,27 @@
     "title": "Pôle Méca seminar series",
     "section": " Past organizers",
     "text": "Past organizers\n\n\n\nName\nAffiliation\n\n\n\n\nAlexandre Daby-Seesaram\nLMS\n\n\nWladimir Sarlin\nLadHyX"
+  },
+  {
+    "objectID": "AdditionalResources.html",
+    "href": "AdditionalResources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e6966792066612d736f6c69643a70656e2d6e6962203e7d7d-scientific-writing",
+    "href": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e6966792066612d736f6c69643a70656e2d6e6962203e7d7d-scientific-writing",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636f6d706173732d6472616674696e67203e7d7d-figures-editing",
+    "href": "AdditionalResources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636f6d706173732d6472616674696e67203e7d7d-figures-editing",
+    "title": "Additional resources",
+    "section": "   Figures editing",
+    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri et al. 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier et al. 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
     "objectID": "index.html",
