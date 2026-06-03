@@ -28,7 +28,7 @@ In addition to this page, you can find:
 ::::: {.talk-card}
 ### 5th of June 2026 
 
-**Title:** To Be Announced
+**Title:** Close look at jumping microdrops & Predicting the statistics of near-inertial waves over a background flow via statistical mechanics
  <br>
 **Speaker:** Paul Bienvenu (PMMH) and Alexandre Tlili (CEA)
 
@@ -36,7 +36,7 @@ In addition to this page, you can find:
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/presentation.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/bienvenu_tlilis.pdf){.button target="_blank"}
 :::
 
 :::::
