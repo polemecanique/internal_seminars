@@ -26,17 +26,17 @@ In addition to this page, you can find:
 ## Upcoming seminar(s) 
 
 ::::: {.talk-card}
-### 5th of June 2026 
+### 12th of June 2026 
 
-**Title:** Close look at jumping microdrops & Predicting the statistics of near-inertial waves over a background flow via statistical mechanics
+**Title:** Finite Strain Ductile Phase-Field Modelling under Chemo-Thermo-Mechanical Coupling: Application to Viscoplastic Silicon Anode Particles & Crowding sensitiveness in epithelium: when biking to the lab starts a mechanobiology story
  <br>
-**Speaker:** Paul Bienvenu (PMMH) and Alexandre Tlili (CEA)
+**Speaker:** Armel TENE TESSE (IMSIA) and Louis LAURENT (LadHyX)
 
-![](Resources/Documents/Presentations/2026/Announcement_bienvenu_tlili.svg){width="50%" fig-align="center"}
+![](Resources/Documents/Presentations/2026/Annoucement_armel_louis.svg){width="50%" fig-align="center"}
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/P_Bienvenu_A_Tlili.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/A_TENE_TESSE_L_LAURENT.pdf){.button target="_blank"}
 :::
 
 :::::
