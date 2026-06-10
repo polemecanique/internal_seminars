@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
 VERSION:2.0
 NAME:internal_seminars_pole_mecanique
-X-WR-CALNAME:internal_seminars_pole_mecanique(1)
+X-WR-CALNAME:internal_seminars_pole_mecanique
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
@@ -919,17 +919,17 @@ X-MOZ-GENERATION:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260417T072706Z
-LAST-MODIFIED:20260522T114833Z
-DTSTAMP:20260522T114833Z
+LAST-MODIFIED:20260610T142154Z
+DTSTAMP:20260610T142154Z
 UID:b5bc3252-edad-4cef-989e-81285a85aa65
 SUMMARY:Internal Seminar - Armel TENE TESSE (IMSIA) and Louis LAURENT (LadH
  yX)
 DTSTART;TZID=Europe/Paris:20260612T110000
 DTEND;TZID=Europe/Paris:20260612T120000
 TRANSP:OPAQUE
-LOCATION:To be defined
-X-MOZ-GENERATION:3
-SEQUENCE:1
+LOCATION:Pôle Méca's Ampitheatre
+X-MOZ-GENERATION:4
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260417T072706Z
@@ -946,19 +946,19 @@ X-MOZ-GENERATION:4
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-LAST-MODIFIED:20260603T115227Z
-DTSTAMP:20260603T115227Z
+LAST-MODIFIED:20260610T142545Z
+DTSTAMP:20260610T142545Z
 UID:be8fe77d-b015-483f-8e11-59d412680385
 SUMMARY:Internal Seminar - Khalil El Ouni (IMSIA)
 DTSTART;TZID=Europe/Berlin:20260626T110000
 DTEND;TZID=Europe/Berlin:20260626T120000
 DESCRIPTION;ALTREP="data:text/html,Experimental%20and%20numerical%20investi
- gation%20of%20aeroacoustic%20instllation%20effects%20on%20small-scale%20mul
- ti-rotor%20systems%20in%20hover":Experimental and numerical investigation o
- f aeroacoustic instllation effects on small-scale multi-rotor systems in ho
- ver
+ gation%20of%20aeroacoustic%20installation%20effects%20on%20small-scale%20mu
+ lti-rotor%20systems%20in%20hover":Experimental and numerical investigation 
+ of aeroacoustic installation effects on small-scale multi-rotor systems in 
+ hover
 LOCATION:104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 SEQUENCE:2
-X-MOZ-GENERATION:2
+X-MOZ-GENERATION:3
 END:VEVENT
 END:VCALENDAR
