@@ -8,6 +8,21 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Past talks
 
 ::::: {.talk-card}
+### 12th of June 2026 
+
+**Title 1:** Crowding sensitiveness in epithelium: when biking to the lab starts a mechanobiology story
+ <br>
+**Speaker 1:**  Louis LAURENT (LadHyX) <br><br>
+**Title 2:** Finite Strain Ductile Phase-Field Modelling under Chemo-Thermo-Mechanical Coupling: Application to Viscoplastic Silicon Anode Particles <br>
+**Speaker 2:** Armel TENE TESSE (IMSIA)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/A_TENE_TESSE_L_LAURENT.pdf){.button target="_blank"}
+:::
+
+:::::
+
+::::: {.talk-card}
 ### 6th of February 2026
 
 **Title:** Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression

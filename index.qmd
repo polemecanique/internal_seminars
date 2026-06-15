@@ -23,23 +23,36 @@ In addition to this page, you can find:
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
-## Upcoming seminar(s) 
+### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-### 12th of June 2026 
+#### 19th June, 2026 
 
-**Title:** Finite Strain Ductile Phase-Field Modelling under Chemo-Thermo-Mechanical Coupling: Application to Viscoplastic Silicon Anode Particles & Crowding sensitiveness in epithelium: when biking to the lab starts a mechanobiology story
- <br>
-**Speaker:** Armel TENE TESSE (IMSIA) and Louis LAURENT (LadHyX)
+::::{.columns }
+:::{.column width=10%}
+**Title**
+<br>
+**Speaker**
+<br>
+**Venue**
+:::
+:::{.column width=90%}
+Staying on course - what a fruit fly can teach us about walking straight
+<br>
+Ania Chrzanowska (Paris Brain Institute)
+<br>
+Room 104-10-55 (meeting room near the Amphitheatre of Pôle Mécanique)
+:::
+::::
 
-![](Resources/Documents/Presentations/2026/Annoucement_armel_louis.svg){width="50%" fig-align="center"}
-
-
+<!-- TODO: Add Announcement
 ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/A_TENE_TESSE_L_LAURENT.pdf){.button target="_blank"}
 :::
-
+-->
 :::::
+
+
 
 ### {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
 
