@@ -26,7 +26,7 @@ In addition to this page, you can find:
 ### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-#### 19th June, 2026 
+#### 26th June, 2026 
 
 ::::{.columns }
 :::{.column width=10%}
@@ -37,9 +37,8 @@ In addition to this page, you can find:
 **Venue**
 :::
 :::{.column width=90%}
-Staying on course - what a fruit fly can teach us about walking straight
-<br>
-Ania Chrzanowska (Paris Brain Institute)
+Experimental and numerical investigation of aeroacoustic installation effects on small-scale multi-rotor systems in hover<br>
+Khalil El Ouni (IMSIA)
 <br>
 Room 104-10-55 (meeting room near the Amphitheatre of Pôle Mécanique)
 :::
@@ -47,7 +46,7 @@ Room 104-10-55 (meeting room near the Amphitheatre of Pôle Mécanique)
 
 <!-- TODO: Add Announcement
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/A_TENE_TESSE_L_LAURENT.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/K_El_Ouni.pdf){.button target="_blank"}
 :::
 -->
 :::::
