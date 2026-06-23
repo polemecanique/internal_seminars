@@ -894,7 +894,7 @@ BEGIN:VEVENT
 LAST-MODIFIED:20260522T114807Z
 DTSTAMP:20260522T114807Z
 UID:43113be5-0b24-4c6a-bf7f-d739ef73a791
-SUMMARY:Internal Seminar - Arianna Giannetti (LadHyX)
+SUMMARY:Internal Seminar - Arianna Giannetti (LadHyX) and Flavien Loiseau (IMSIA)
 DTSTART;TZID=Europe/Berlin:20260703T110000
 DTEND;TZID=Europe/Berlin:20260703T120000
 DESCRIPTION;ALTREP="data:text/html,Tomographic%20shearmetry%20of%20dynamic%
