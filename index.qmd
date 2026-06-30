@@ -26,7 +26,7 @@ In addition to this page, you can find:
 ### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-#### 26th June, 2026 
+#### 3rd June, 2026 
 
 ::::{.columns }
 :::{.column width=10%}
@@ -37,16 +37,16 @@ In addition to this page, you can find:
 **Venue**
 :::
 :::{.column width=90%}
-Experimental and numerical investigation of aeroacoustic installation effects on small-scale multi-rotor systems in hover<br>
-Khalil El Ouni (IMSIA)
+Path-following methods for quasi-static crack propagation : Application to phase-field fracture & Tomographic shearmetry of dynamic flows at cell surfaces using nanoprobles<br>
+Flavien Loiseau (IMSIA) & Arianna Giannetti (LadHyX)
 <br>
-Room 104-10-55 (meeting room near the Amphitheatre of Pôle Mécanique)
+Amphitheatre of Pôle Mécanique
 :::
 ::::
 
 <!-- TODO: Add Announcement
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/K_El_Ouni.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/F_Loiseau_A_Giannetti.pdf){.button target="_blank"}
 :::
 -->
 :::::
