@@ -37,8 +37,8 @@ In addition to this page, you can find:
 **Venue**
 :::
 :::{.column width=90%}
-Path-following methods for quasi-static crack propagation : Application to phase-field fracture & Tomographic shearmetry of dynamic flows at cell surfaces using nanoprobles<br>
-Flavien Loiseau (IMSIA) & Arianna Giannetti (LadHyX)
+Tomographic shearmetry of dynamic flows at cell surfaces using nanoprobles & Path-following methods for quasi-static crack propagation : Application to phase-field fracture<br>
+Arianna Giannetti (LadHyX) & Flavien Loiseau (IMSIA)
 <br>
 Amphitheatre of Pôle Mécanique
 :::
