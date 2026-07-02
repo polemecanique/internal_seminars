@@ -32,11 +32,11 @@ In addition to this page, you can find:
 :::{.column width=10%}
 **Title**
 <br>
-** **
+<br>
 <br>
 **Speaker**
 <br>
-** **
+<br>
 <br>
 **Venue**
 :::
