@@ -186,5 +186,5 @@ format:
 
   **Name**                | **Affiliation** |
 |-------------------------|-----------------|
-| Alexandre Daby-Seesaram | LMS             |
+| [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) | LMS             |
 | Wladimir Sarlin         | LadHyX          |
