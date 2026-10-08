@@ -38,13 +38,7 @@ In addition to this page, you can find:
 ::::{.columns }
 :::{.column width=10%}
 **Title**
-<br>
-<br>
-<br>
 **Speaker**
-<br>
-<br>
-<br>
 **Venue**
 :::
 :::{.column width=90%}
