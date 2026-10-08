@@ -18,6 +18,13 @@ This website serves as a central hub for the Pôle Méca internal seminar series
 This series consists of **regular seminars** co-organized by all labs from the **Pôle Mécanique**.
 Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
 
+This year, we are introducing a new concept with the following schedule:
+
+* ⁠1st and 3rd Tuesday of the month (from 10:45 am to 11:45 am): Seminar slots. The format and duration of the presentations are completely open. For short formats, multiple speakers can present on different topics. At the start of this year, it is a great opportunity for newcomers to introduce themselves and briefly describe the project they will be working on!
+
+* ⁠4th Tuesday of the month: This slot will be dedicated to a discussion time or a roundtable on a specific theme (e.g., experimental platforms at the Hub, types of models used, PhD milestones and administrative points, post-PhD life...).
+
+
 In addition to this page, you can find:
 
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
@@ -26,7 +33,7 @@ In addition to this page, you can find:
 ### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-#### 3rd June, 2026 
+#### 3rd November, 2026 
 
 ::::{.columns }
 :::{.column width=10%}
@@ -41,10 +48,10 @@ In addition to this page, you can find:
 **Venue**
 :::
 :::{.column width=90%}
-Tomographic shearmetry of dynamic flows at cell surfaces using nanoprobles & Path-following methods for quasi-static crack propagation : Application to phase-field fracture<br>
-Arianna Giannetti (LadHyX) & Flavien Loiseau (IMSIA)
+Title to be announced<br>
+Nguyen Ngoc Tuan (Chimie ParisTech)
 <br>
-Amphitheatre of Pôle Mécanique
+104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 :::
 ::::
 
@@ -75,8 +82,6 @@ To stay updated, you can subscribe to the calendar using the following **ICS lin
 | Arianna Giannetti      | LadHyX          | [arianna.giannetti@polytechnique.edu](mailto:arianna.giannetti@polytechnique.edu) |
 | Thomas Lavigne         | LMS             | [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu)         |
 | André Stabile          | IMSIA           | [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr) |
-| Flavien Loiseau        | IMSIA           | [flavien.loiseau@ensta.fr](mailto:flavien.loiseau@ensta.fr)       
-| Lony Kiakouama         | IMSIA           | [lony.kiakouama@ensta.fr](mailto:lony.kiakouama@ensta.fr)
 | Arthur Gautreau        | IMSIA           | [arthur.gautreau@ensta.fr](mailto:arthur.gautreau@ensta.fr)
 
 ### {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Propose a talk
