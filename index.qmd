@@ -42,7 +42,7 @@ In addition to this page, you can find:
 **Venue**
 :::
 :::{.column width=90%}
-Title to be announced<br>
+Engineering Functional Biointerfaces for Tissue Repair: From Surface Chemistry for Guiding Cell Behavior to Bioabsorbable Implants<br>
 Nguyen Ngoc Tuan (Chimie ParisTech)
 <br>
 104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
