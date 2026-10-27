@@ -76,7 +76,8 @@ To stay updated, you can subscribe to the calendar using the following **ICS lin
 | Arianna Giannetti      | LadHyX          | [arianna.giannetti@polytechnique.edu](mailto:arianna.giannetti@polytechnique.edu) |
 | Thomas Lavigne         | LMS             | [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu)         |
 | André Stabile          | IMSIA           | [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr) |
-| Arthur Gautreau        | IMSIA           | [arthur.gautreau@ensta.fr](mailto:arthur.gautreau@ensta.fr)
+| Arthur Gautreau        | IMSIA           | [arthur.gautreau@ensta.fr](mailto:arthur.gautreau@ensta.fr) |
+| Lony Kiakouama        | IMSIA           | [lony.kiakouama@ensta.fr](mailto:lony.kiakouama@ensta.fr) |
 
 ### {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Propose a talk
 
