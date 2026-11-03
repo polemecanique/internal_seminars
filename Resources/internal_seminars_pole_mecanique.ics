@@ -3,7 +3,6 @@ PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
 VERSION:2.0
 NAME:internal_seminars_pole_mecanique
 X-WR-CALNAME:internal_seminars_pole_mecanique
-X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-TZINFO:Europe/Berlin[2025b]
@@ -894,7 +893,8 @@ BEGIN:VEVENT
 LAST-MODIFIED:20260522T114807Z
 DTSTAMP:20260522T114807Z
 UID:43113be5-0b24-4c6a-bf7f-d739ef73a791
-SUMMARY:Internal Seminar - Arianna Giannetti (LadHyX) and Flavien Loiseau (IMSIA)
+SUMMARY:Internal Seminar - Arianna Giannetti (LadHyX) and Flavien Loiseau (
+ IMSIA)
 DTSTART;TZID=Europe/Berlin:20260703T110000
 DTEND;TZID=Europe/Berlin:20260703T120000
 DESCRIPTION;ALTREP="data:text/html,Tomographic%20shearmetry%20of%20dynamic%
@@ -960,5 +960,24 @@ DESCRIPTION;ALTREP="data:text/html,Experimental%20and%20numerical%20investi
 LOCATION:104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 SEQUENCE:2
 X-MOZ-GENERATION:3
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261103T141814Z
+LAST-MODIFIED:20261103T141924Z
+DTSTAMP:20261103T141924Z
+UID:d147e46a-5ced-4240-851d-d2815bae04bc
+SUMMARY:José Manuel Camacho Sanchez & Julien Bonnafé
+DTSTART;TZID=Europe/Paris:20261117T104500
+DTEND;TZID=Europe/Paris:20261117T114500
+TRANSP:OPAQUE
+LOCATION:104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
+DESCRIPTION;ALTREP="data:text/html,Title%20of%20presentations%20%3A%C2%A0%3
+ Cbr%3E%3Cbr%3E-%C2%A0%3Cspan%20data-teams%3D%22true%22%3EExperimental%20Stu
+ dy%20of%20Flow%20Bistability%20in%20the%20Pre-Stall%20Regime%20of%20an%20As
+ ymmetric%20Airfoil%3Cbr%3E%3Cbr%3E-%20TBA%3C%2Fspan%3E":Title of presentati
+ ons : \n\n- Experimental Study of Flow Bistability in the Pre-Stall Regime 
+ of an Asymmetric Airfoil\n\n- TBA
+SEQUENCE:1
+X-MOZ-GENERATION:1
 END:VEVENT
 END:VCALENDAR
