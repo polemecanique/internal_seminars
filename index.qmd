@@ -33,32 +33,13 @@ In addition to this page, you can find:
 ### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-#### 17th November, 2026 
-**First talk**
-::::{.columns }
-:::{.column width=10%}
-**Title**
-**Speaker**
-:::
-:::{.column width=90%}
-Experimental Study of Flow Bistability in the Pre-Stall Regime of an Asymmetric Airfoil<br>
-José Manuel Camacho Sanchez (IMSIA)
-:::
-::::
-**Second talk**
-::::{.columns }
-:::{.column width=10%}
-**Title**
-**Speaker**
-**Venue**
-:::
-:::{.column width=90%}
-TBA<br>
-Julien Bonnafé (LMS)
-<br>
-104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
-:::
-::::
+### 17th of November 2026 
+**Title 1:** Experimental Study of Flow Bistability in the Pre-Stall Regime of an Asymmetric Airfoil
+ <br>
+**Speaker 1:**  José Manuel Camacho Sanchez (IMSIA) <br><br>
+**Title 2:** TBA <br>
+**Speaker 2:** Julien Bonnafé (LMS) <br>
+**Venue:** 104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 :::::
 
 
