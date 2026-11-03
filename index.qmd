@@ -38,7 +38,7 @@ In addition to this page, you can find:
  <br>
 **Speaker 1:**  José Manuel Camacho Sanchez (IMSIA) <br><br>
 **Title 2:** TBA <br>
-**Speaker 2:** Julien Bonnafé (LMS) <br>
+**Speaker 2:** Julien Bonnafé (LMS) <br><br>
 **Venue:** 104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 :::::
 
