@@ -33,8 +33,19 @@ In addition to this page, you can find:
 ### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-#### 3rd November, 2026 
-
+#### 17th November, 2026 
+**First talk**
+::::{.columns }
+:::{.column width=10%}
+**Title**
+**Speaker**
+:::
+:::{.column width=90%}
+Experimental Study of Flow Bistability in the Pre-Stall Regime of an Asymmetric Airfoil<br>
+José Manuel Camacho Sanchez (IMSIA)
+:::
+::::
+**Second talk**
 ::::{.columns }
 :::{.column width=10%}
 **Title**
@@ -42,18 +53,12 @@ In addition to this page, you can find:
 **Venue**
 :::
 :::{.column width=90%}
-Engineering Functional Biointerfaces for Tissue Repair: From Surface Chemistry for Guiding Cell Behavior to Bioabsorbable Implants<br>
-Nguyen Ngoc Tuan (Chimie ParisTech)
+TBA<br>
+Julien Bonnafé (LMS)
 <br>
 104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 :::
 ::::
-
-<!-- TODO: Add Announcement
-::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2026/F_Loiseau_A_Giannetti.pdf){.button target="_blank"}
-:::
--->
 :::::
 
 
