@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://polemecanique.github.io/PastSeminarsArchive.html</loc>
-    <lastmod>2026-11-03T14:29:50.369Z</lastmod>
-  </url>
-  <url>
     <loc>https://polemecanique.github.io/index.html</loc>
-    <lastmod>2026-11-03T14:29:50.883Z</lastmod>
+    <lastmod>2026-11-17T13:04:28.409Z</lastmod>
   </url>
   <url>
     <loc>https://polemecanique.github.io/AdditionalResources.html</loc>
-    <lastmod>2026-11-03T14:29:50.369Z</lastmod>
+    <lastmod>2026-11-17T13:04:27.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://polemecanique.github.io/PastSeminarsArchive.html</loc>
+    <lastmod>2026-11-17T13:04:27.957Z</lastmod>
   </url>
 </urlset>
