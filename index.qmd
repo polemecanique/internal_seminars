@@ -33,12 +33,10 @@ In addition to this page, you can find:
 ### {{< fa angles-right >}} Upcoming seminar
 
 ::::: {.talk-card}
-### 17th of November 2026 
-**Title 1:** Experimental Study of Flow Bistability in the Pre-Stall Regime of an Asymmetric Airfoil
+### 1st of December 2026 
+**Title:** To Be Announced
  <br>
-**Speaker 1:**  José Manuel Camacho Sanchez (IMSIA) <br><br>
-**Title 2:** TBA <br>
-**Speaker 2:** Julien Bonnafé (LMS) <br><br>
+**Speaker:**  Carlos Perez Garcia (LMS) <br><br>
 **Venue:** 104-10-55 (meeting Room near the Amphitheatre of Pôle Mécanique)
 :::::
 
@@ -60,6 +58,7 @@ To stay updated, you can subscribe to the calendar using the following **ICS lin
   **Name**               | **Affiliation** | **Email**                                      |
 |------------------------|-----------------|------------------------------------------------|
 | Arianna Giannetti      | LadHyX          | [arianna.giannetti@polytechnique.edu](mailto:arianna.giannetti@polytechnique.edu) |
+| Barath Venkateswaran   | LadHyX          | [barath.venkateswaran@polytechnique.edu](mailto:barath.venkateswaran@polytechnique.edu) |
 | Thomas Lavigne         | LMS             | [thomas.lavigne@polytechnique.edu](mailto:thomas.lavigne@polytechnique.edu)         |
 | André Stabile          | IMSIA           | [andre.de-figueiredo-stabile@ensta.fr](mailto:andre.de-figueiredo-stabile@ensta.fr) |
 | Arthur Gautreau        | IMSIA           | [arthur.gautreau@ensta.fr](mailto:arthur.gautreau@ensta.fr) |
